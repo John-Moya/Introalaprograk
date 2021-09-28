@@ -1,0 +1,139 @@
+nombre = JOptionPane.showInputDialog(null, "Ingrese su nombre");
+nota = Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese la nota"));
+if (nota >= 80){
+    JOptionPane.showMessageDialog(null,"El estudiante ha aprobado y su nombre es " + nombre);
+    JOptionPane.showMessageDialog(null, "Su nota es "+ nota);
+}else{
+    JOptionPane.showMessageDialog(null,"El estudiante ha reprobado y su nombre es " + nombre);
+    JOptionPane.showMessageDialog(null, "Su nota es "+ nota);
+}e cumplio");
+
+
+// pedir numero multiplicar por 25 
+Message List
+Meeting started
+1:48 PM Meeting started
+Profile picture of MOYA CARPIO JOHN GARY.Message by MOYA CARPIO JOHN GARY, has an attachment.
+MOYA CARPIO JOHN GARY
+1:54 PM
+SC-202 Clase 02 (2).pptx
+
+Message by MOYA CARPIO JOHN GARY, has an attachment.
+MOYA CARPIO JOHN GARY1:54 PM
+La clase String (2).pdf
+
+Message by MOYA CARPIO JOHN GARY, has an attachment.
+MOYA CARPIO JOHN GARY1:55 PM
+SC-220 Laboratorio - Condicionales - 01 (1).pdf
+
+Comenzamos a las 2 y 5 by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY1:55 PM
+Comenzamos a las 2 y 5
+
+Recording has started
+2:04 PM Recording has started
+Profile picture of BUSTOS QUIROS KAEL ESTEBAN.Otro ejemplo estaría bien profe by BUSTOS QUIROS KAEL ESTEBAN
+BUSTOS QUIROS KAEL ESTEBAN
+2:09 PM
+Otro ejemplo estaría bien profe
+Profile picture of MOYA CARPIO JOHN GARY.String nombre ; nombre = "San Jose" ; ... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:15 PM
+String nombre;
+nombre = "San Jose";
+if (nombre=="San Jose"){
+    System.out.println("La universidad es Fidelitas");
+}else{
+    System.out.println(nombre);
+}
+// nombre provincia if // Direccion // no estoy viviendo ahi?
+Profile picture of MOYA CARPIO JOHN GARY.Sonrisa by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:24 PM
+🙂
+
+Profile picture of MOYA CARPIO JOHN GARY.import javax.swing.JOptionPane ; by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:29 PM
+import javax.swing.JOptionPane;
+Profile picture of MOYA CARPIO JOHN GARY.nombre = JOptionPane . showInputDialog ( ... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:34 PM
+nombre = JOptionPane.showInputDialog(null, "Ingrese su nombre");
+nota = Double.parseDouble(JOptionPane.showInputDialog(null, "Ingrese la nota"));
+if (nota >= 80){
+    JOptionPane.showMessageDialog(null,"El estudiante ha aprobado y su nombre es " + nombre);
+    JOptionPane.showMessageDialog(null, "Su nota es "+ nota);
+}else{
+    JOptionPane.showMessageDialog(null,"El estudiante ha reprobado y su nombre es " + nombre);
+    JOptionPane.showMessageDialog(null, "Su nota es "+ nota);
+}
+|| by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY2:37 PM
+||
+int numero = 21 ; int numero2 = 23 ;... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY2:39 PM
+int numero = 21;
+int numero2 = 23;
+if (numero == 21 || numero2 == 22){
+    System.out.println("El or se cumplio");
+}
+Link https://www.baeldung.com/java-ternary-... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY2:43 PM
+https://www.baeldung.com/java-ternary-operator
+
+Url Preview for Ternary Operator In Java | Baeldung
+Ternary Operator In Java | Baeldung
+Learn about the ternary operator ?:, which allows us to define conditional expressions in Java.
+
+www.baeldung.com
+Profile picture of MOYA CARPIO JOHN GARY.// >= <= == > < != // and && or || by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:49 PM
+// >= <= == > < != // and && or ||  
+Profile picture of MOYA CARPIO JOHN GARY.int by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+2:55 PM
+int
+
+Integer by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY2:55 PM
+Integer
+
+Profile picture of MOYA CARPIO JOHN GARY.int numero = 30 ; int numeroSecundario... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+3:09 PM
+int numero = 30;
+int numeroSecundario = 40;
+if (numero == 30){
+    if (numeroSecundario == 40){
+        System.out.println("If anidado");
+    }
+}
+Profile picture of MOYA CARPIO JOHN GARY.int dia = 1 ; switch ( dia ){ ca... by MOYA CARPIO JOHN GARY
+MOYA CARPIO JOHN GARY
+3:50 PM
+int dia = 1;
+switch (dia){
+    case 1:
+        System.out.println("Domingo");
+        break;
+    case 2:
+        System.out.println("Lunes");
+        break;
+    case 3:
+        System.out.println("Martes");
+        break;
+    case 4:
+        System.out.println("Miercoles");
+        break;
+    case 5:
+        System.out.println("Jueves");
+        break;
+    case 6:
+        System.out.println("Viernes");
+        break;
+    default:
+        System.out.println("Sabado");
+        break;
+}

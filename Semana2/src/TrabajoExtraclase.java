@@ -20,18 +20,19 @@ public class TrabajoExtraclase
         if (antiguedad > 10)
         {
             int Salsemana = horas * prehora;
-            int Salmes = Salsemana * 4;
+            double Salmes = Salsemana * 4;
+            Salmes = Salmes *1.20;
             if (Salmes > 1000 && Salmes < 2000)
             {
-                Double dedu = Salmes * 0.10; 
-                Double salneto = Salmes-dedu; 
+                double dedu = Salmes * 0.10; 
+                double salneto = Salmes-dedu; 
                 JOptionPane.showInternalMessageDialog(null, "El salario suyo es de: "+salneto);
                  
             }
             if (Salmes > 2000)
             {
-                Double dedu = Salmes * 0.15; 
-                Double salneto = Salmes-dedu;
+                double dedu = Salmes * 0.15; 
+                double salneto = Salmes-dedu;
                 JOptionPane.showInternalMessageDialog(null, "El salario suyo es de: "+salneto);
                  
             }

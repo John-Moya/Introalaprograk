@@ -48,11 +48,11 @@ public class Main {
 
         //Ejercicio 2; programa que imprima un rectángulo
         //de 10 símbolos en 5 líneas
-        for (int i = 5; i<5; i++){
+        /*for (int i < 5; i<5; i++){
             System.out.println(i);
             for (int k = 10; k<10; k++){
                 System.out.println("@");
             }
-        }
+        }*/
     }
 }

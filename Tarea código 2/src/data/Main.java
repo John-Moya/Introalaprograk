@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class Main {
 
     public static void main(String[] args) {
-        int años = Integer.parseInt(JOptionPane.showInputDialog("Ingrese años de antiguedad en la empresa"));
+        /*int años = Integer.parseInt(JOptionPane.showInputDialog("Ingrese años de antiguedad en la empresa"));
         int horas = Integer.parseInt(JOptionPane.showInputDialog("Horas laboradas por semana"));
         int monto = Integer.parseInt(JOptionPane.showInputDialog("Monto por hora"));
         Integer salaBrutoi = horas * monto;
@@ -30,7 +30,7 @@ public class Main {
             JOptionPane.showMessageDialog(null, "Su salario final es de: "+sala2000);
         }else{
             JOptionPane.showMessageDialog(null, "Su salario neto es de: " + salaBrutoi);
-        }
+        }*/
     }
 
 }

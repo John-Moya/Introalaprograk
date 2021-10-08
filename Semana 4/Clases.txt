@@ -1,0 +1,50 @@
+// Doctor
+
+        //Atributos
+        // nombre
+        //Caracteristicas
+        //caracter
+        //color de piel
+
+        //Metodos
+        //operar
+        //hacer consultas
+        //mantener higiene
+
+// Laptop
+
+      Atributos
+        // marca
+        //Caracteristica
+        //peso
+        //modelo
+
+       Metodos
+        //videos
+        //juegos
+        //trabajos
+
+// Celulares
+
+     Atributos
+        //marca
+        // modelo
+        //Caracteristicas
+        
+
+      Metodos
+        //videos
+        //juegos
+        //trabajo
+        //llamadas
+
+// pulperia
+
+      Atributos
+        // nombre
+        //Caracteristicas
+        
+
+       Metodos
+        //vender
+        //atender

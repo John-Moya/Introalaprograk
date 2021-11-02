@@ -20,6 +20,7 @@ public class Main {
         System.out.println(carro3.riteve.getFaltas());
         carro3.riteve.setFaltas("Desbalance en el Freno");
         System.out.println(carro3.riteve.getFaltas());
+        System.out.println(carro3.riteve.getFecha());
 
     }
 }

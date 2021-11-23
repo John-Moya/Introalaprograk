@@ -2,7 +2,7 @@ package proyecto3cuatri;
 
 import javax.swing.JOptionPane;
 
-public class Proyecto3Cuatri{
+public class Main{
      public static void main(String[] args) throws Exception {
 
         //Mensaje de bienvenida
